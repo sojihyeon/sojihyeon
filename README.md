@@ -37,27 +37,6 @@
   </samp>
 </p>
 
-<p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://twitter.com/_alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/_alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
-</p>
-<br />
 
 <!-- About Section -->
  # About me
@@ -74,9 +53,17 @@
 
 <br/>
 <br/>
+
+##### > 🎁 About me
+
+Hi, I'm jihyeon so.
+(If you want to be friendly, call me Hyeon.)   
+Until recently, I worked as a designer at a company, but I quit.
+I am currently taking the ETS Wassup AI PM class.  
+
 <br/>
 
-##### >⚡Skill Tool
+##### > ⚡ Skill Tool
  
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)   
 ![Adobe](https://img.shields.io/badge/Adobe-000000?style=for-the-badge&logo=Adobe&logoColor=white)   
@@ -85,8 +72,11 @@
 ![AutoCad](https://img.shields.io/badge/AutoCad-000000?style=for-the-badge&logo=AutoCad&logoColor=white)   
 ![MSoffice](https://img.shields.io/badge/MSoffice-000000?style=for-the-badge&logo=MSoffice&logoColor=white)
 
-##### >⚡Contact me
+<br/>
 
+##### > 💡 Contact me
+Phone number : 010.4163.1599
+E-mail address : locial579@gmail.com
 
 
 
